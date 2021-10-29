@@ -1,7 +1,13 @@
 # ghotok-mail
 ghotok mail - lets you find available contact email addresses from target website
-
-
+    <b>
+    git clone https://github.com/josifkhan/ghotok-mail
+    cd ghotok-mail
+    pip install requirements
+    python ghotok.py google.com
+    </b>
+   
+    
 
 <br/><a href="https://facebook.com/josifkhangg">Follow</a><b>  Official Profile |</b>
 <br/><a href="https://facebook.com/109845683903349">Follow</a><b>  Official Page |</b>
